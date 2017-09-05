@@ -1,3 +1,11 @@
+#参考地址
+https://archfirst.org/bullsfirst/
+http://www.infoq.com/cn/news/2015/03/ddd-trading-example
+这个项目是ddd里面非常经典的一个项目，是个学习DDD的一个非常好的例子
+
+https://archfirst.org/bullsfirst/
+可以参考设计他的rest设计思路、ddd的设计思路、eventsource的设计思路
+
 # bullsfirst-server-java
 Bullsfirst is a sample trading application demonstrating best practices in software development. You can read more about it on [archfirst.org](https://archfirst.org/bullsfirst/).
 
