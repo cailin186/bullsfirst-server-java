@@ -1,4 +1,4 @@
-#参考地址
+# 参考地址
 https://archfirst.org/bullsfirst/
 http://www.infoq.com/cn/news/2015/03/ddd-trading-example
 这个项目是ddd里面非常经典的一个项目，是个学习DDD的一个非常好的例子
